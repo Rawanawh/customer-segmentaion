@@ -20,3 +20,6 @@ purchasing actions of different customers will be clarified and customers will b
 [Dataset](https://github.com/Rawanawh/customer-segmentaion/blob/main/data/Online%20Retail.xlsx)
 
 [Presentation](https://github.com/Rawanawh/customer-segmentaion/blob/main/customer-segmentation-presentation.mp4)
+
+
+###### This project is part of ML Bootcamp provided by [clarusway](https://github.com/clarusway)
