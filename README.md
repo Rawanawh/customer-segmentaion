@@ -29,6 +29,13 @@ purchasing actions of different customers will be clarified and customers will b
 ![RFM output](https://github.com/Rawanawh/customer-segmentaion/assets/90554711/58d07b5b-f408-4a64-8a73-039f2a3c01cd)
 
 ### K-Means Clustering
+0: '1 Gold_Customers'
+
+1:'2 Bronze_Customers'
+
+2:'3 Platinum_Customers'
+
+3:'4 Silver_Customers'
 
 ![24F80826-889C-49DE-8184-02E88CE68874](https://github.com/Rawanawh/customer-segmentaion/assets/90554711/aae75264-0ea1-4659-8b39-125094b562ac)
 
